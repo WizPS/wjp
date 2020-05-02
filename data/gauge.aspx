@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="gauge.aspx.cs" Inherits="data_gauge" %>

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="grid_provider_proc.aspx.cs" Inherits="data_grid_provider_proc" %>

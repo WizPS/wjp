@@ -1,0 +1,10 @@
+﻿<div id="dg2"></div>
+<script>
+	using(['datagrid', 'panel'], function () {
+		$('#dg2').panel({ title: 'panel-title', content: $('<div/>', { id: 'pnl' })  });
+		$('#pnl').datagrid({
+			columns: [[{ field: 'field1', title: 'field1' }, { field: 'field2', title: 'field2' }]]
+			, data: [{ field1: 'jan', field2: 'feb' }, { field1: 'mars', field2: 'apr' }]
+		});
+	});
+</script>

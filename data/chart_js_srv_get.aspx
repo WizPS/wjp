@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="chart_js_srv_get.aspx.cs" Inherits="app_chart_js_srv_get" %>

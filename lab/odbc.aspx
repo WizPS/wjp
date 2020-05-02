@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="odbc.aspx.cs" Inherits="lab_odbc" %>

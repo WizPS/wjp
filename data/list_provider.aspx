@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="list_provider.aspx.cs" Inherits="data_list_provider" %>

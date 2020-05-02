@@ -1,0 +1,57 @@
+{
+  "lines": [
+    {
+      "item_number": "3671174403",
+      "curr": "USD",
+      "ppl": 209.18,
+      "base_disc": "0.00%",
+      "qty": 45,
+      "qty_disc": "39.00%",
+      "total_price": 5742.00
+    },
+    {
+      "item_number": "3671174404",
+      "curr": "USD",
+      "ppl": 209.18,
+      "base_disc": "0.00%",
+      "qty": 2,
+      "qty_disc": "39.00%",
+      "total_price": 255.20
+    },
+    {
+      "item_number": "3671174411",
+      "curr": "USD",
+      "ppl": 209.18,
+      "base_disc": "0.00%",
+      "qty": 2,
+      "qty_disc": "39.00%",
+      "total_price": 255.20
+    },
+    {
+      "item_number": "3671174451",
+      "curr": "USD",
+      "ppl": 412.14,
+      "base_disc": "0.00%",
+      "qty": 1,
+      "qty_disc": "39.00%",
+      "total_price": 251.41
+    },
+    {
+      "item_number": "3671174491",
+      "curr": "USD",
+      "ppl": 271.34,
+      "base_disc": "0.00%",
+      "qty": 1,
+      "qty_disc": "39.00%",
+      "total_price": 165.52
+    }
+  ],
+  "header": {
+    "m_type": "GEOIND",
+    "c_type": "pack",
+    "lines": 5,
+    "qty": 51,
+    "total_price": 6669.33,
+    "milliseconds": 17
+  }
+}

@@ -1,0 +1,698 @@
+﻿
+
+.logic-small {
+	background: url('32/logic.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.add-small {
+	background: url('32/add.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.ALiCE-small {
+	background: url('32/ALiCE_b.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.box-small {
+	background: url('32/box.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.box-large {
+	background: url('32/box.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.student-small {
+	background: url('32/student.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.information-small {
+	background: url('32/information.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.search-small {
+	background: url('32/search.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.hier-small {
+	background: url('32/hier.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.reload-small {
+	background: url('32/reload.png') no-repeat center center;
+	background-size: 14px 14px;
+}
+.stair-small {
+	background: url('32/stair.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.stair-large {
+	background: url('32/stair.png') no-repeat center center;
+}
+.stair_steps-small {
+	background: url('32/stair_step.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.exchanges-small {
+	background: url('32/exchanges.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.exchanges-large {
+	background: url('32/exchanges.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.help-small {
+	background: url('32/help.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.help-large {
+	background: url('32/help.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.file-small {
+	background: url('32/file.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.file-large {
+	background: url('32/menu.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.icon-ok {
+	background: url('32/check.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.menu-small {
+	background: url('32/menu.png') no-repeat center center;
+	background-size: 14px 14px;
+}
+
+.trash_t-small {
+	background: url('16/trash_t.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+
+.trash-small {
+	background: url('32/trash.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+
+.trash-large {
+	background: url('32/trash.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.cog2-small {
+	background: url('16/cog2.png') no-repeat center center;
+}
+
+.cog-small {
+	background: url('32/cog.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.user_market-small {
+	background: url('32/earth-globe.png'),url('32/user.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 10px 10px,16px 16px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+.globe_arrow-small {
+	background: url('32/double-arrow.png'),url('32/earth-globe.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 16px 16px,16px 16px;
+	background-position: center center, center center;
+	cursor: pointer;
+}
+.cogwfilterO-small {
+	background: url('32/filterO.png'),url('32/cog.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 10px 10px,16px 16px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+.cogwfilterY-small {
+	background: url('32/filterY.png'),url('32/cog.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 10px 10px,16px 16px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+
+.cog-large {
+	background: url('32/cog.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.copy-small {
+	background: url('32/copy.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.copy-large {
+	background: url('32/copy.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.gauge-small {
+	background: url('32/gauge.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.gauge-large {
+	background: url('32/gauge.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.line-chart-small {
+	background: url('32/line-chart.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.line-chart-large {
+	background: url('32/line-chart.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.line-chart2-small {
+	background: url('32/line-chart2.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.line-chart2-large {
+	background: url('32/line-chart2.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.changes-small {
+	background: url('32/changes.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.changes-large {
+	background: url('32/changes.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.time-small {
+	background: url('32/time.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.time-large {
+	background: url('32/time.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+pagination-load {
+	background: url('16/pagination_icons.png') no-repeat -64px center;
+}
+
+.disk-small {
+	background: url('32/disk.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+.stop_edit-small {
+	background: url('32/stop_edit.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+.pencil-small {
+	background: url('32/pencil.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+
+.database2-small {
+	background: url('32/database2.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.database2-large {
+	background: url('32/database2.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.databaseo-small {
+	background: url('32/databaseo.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.databaseo-large {
+	background: url('32/databaseo.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.databasey-small {
+	background: url('32/databasey.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.databasey-large {
+	background: url('32/databasey.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.databaseg-small {
+	background: url('32/databaseg.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.databaseg-large {
+	background: url('32/databaseg.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.currency-small {
+	background: url('32/currency.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.double-arrow-small {
+	background: url('32/double-arrow.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.double-arrow-large {
+	background: url('32/double-arrow.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.changes-small {
+	background: url('32/changes.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.changes-large {
+	background: url('32/changes.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.worldcurr-small {
+	background: url('32/worldcurr.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.worldcurr-large {
+	background: url('32/worldcurr.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.world-small {
+	background: url('32/world.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.world-large {
+	background: url('32/world.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.exchange-small {
+	background: url('32/exchange.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.exchange-large {
+	background: url('32/exchange.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.investment-small {
+	background: url('32/investment.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.investment-large {
+	background: url('32/investment.png') no-repeat center center;
+}
+
+.cancel-small {
+	background: url('32/cancel.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.cancel-large {
+	background: url('32/cancel.png') no-repeat center center;
+}
+.edit-small {
+	background: url('32/pen.png') no-repeat center center;
+	background-size: 12px 12px;
+}
+
+.edit-large {
+	background: url('32/pen.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+
+.delete-small {
+	background: url('32/delete.png') no-repeat center center;
+	background-size: 11px 11px;
+}
+.delete-large {
+	background: url('32/delete.png') no-repeat center center;
+}
+
+.commit-small {
+	background: url('16/commit.png') no-repeat center center;
+}
+
+.commit-large {
+	background: url('32/commit.png') no-repeat center center;
+}
+.items-large {
+	background: url('32/items.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.items-small {
+	background: url('32/items.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.partial-branch-large {
+	background: url('32/partial_branch.png') no-repeat center center;
+}
+.partial-branch-small {
+	background: url('32/partial_branch.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.full-branch-large {
+	background: url('32/full_branch.png') no-repeat center center;
+}
+.full-branch-small {
+	background: url('32/full_branch.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.icon-info {
+	background: url('16/info.png') no-repeat center center;
+}
+
+.filter-small {
+	background: url('32/filter.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.filter_group-small {
+	background: url('32/lr_menu.png'), url('32/filter.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 11px 11px,13px 13px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+
+.list_price-large {
+	background: url('32/userR.png'),url('32/corridor.png'), url('32/earth-globe.png');
+	background-repeat: no-repeat,no-repeat, no-repeat;
+	background-size: 16px 16px,16px 16px,23px 23px;
+	background-position: left top,right bottom, center center;
+	cursor: pointer;
+}
+.list_price-small {
+	background: url('32/corridor.png'), url('32/earth-globe.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 8px 8px,14px 14px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+
+.list_qty-large {
+	background: url('32/userR.png'), url('32/stair.png'), url('32/earth-globe.png');
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	background-size: 16px 16px, 16px 16px, 23px 23px;
+	background-position: left top, right bottom, center center;
+	cursor: pointer;
+}
+
+.list_qty-small {
+	background: url('32/stair.png'), url('32/earth-globe.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 8px 8px,14px 14px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+.ppl_mgmt-large {
+	background: url('32/userR.png'),url('32/bar-chart_2.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 16px 16px,28px 28px;
+	background-position: left top,right bottom;
+	cursor: pointer;
+}
+.currency-large {
+	background: url('32/userR.png'),url('32/currency.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 16px 16px,28px 28px;
+	background-position: left top,right bottom;
+	cursor: pointer;
+}
+.clear-filter-small {
+	background: url('32/deleteO.png'), url('32/filter.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 10px 10px,14px 14px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+
+.clearPreFilter-small {
+	background: url('32/deleteY.png'), url('32/filter.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 10px 10px,14px 14px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+.addPreFilter-small {
+	background: url('32/addY.png'), url('32/filter.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 10px 10px,14px 14px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+
+.database-small {
+	background: url('16/database.png') no-repeat center center;
+}
+
+.database-large {
+	background: url('32/database.png') no-repeat center center;
+}
+
+.icon-folder-tree-small {
+	background: url('16/folder-tree.png') no-repeat center center;
+	zoom: 0.5;
+	display: inline-block;
+}
+.icon-excel-small {
+	background: url('16/excel.png') no-repeat center center;
+}
+.icon-excel_pop-small {
+	background: url('32/pop-up_w.png'), url('16/excel.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 11px 11px,13px 13px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+.organization-blue {
+	background: url('16/organization-blue.png') no-repeat center center;
+}
+.organization-blk {
+	background: url('16/organization-blk.png') no-repeat center center;
+}
+.tag-large {
+	background: url('32/tag.png') no-repeat center center;
+}
+.tag-small {
+	background: url('32/tag.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.bar-chart-large {
+	background: url('32/bar-chart_2.png') no-repeat center center;
+	background-size: 32px 32px;
+}
+.bar-chart-small {
+	background: url('32/bar-chart_2.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.earth-globe-large {
+	background: url('32/earth-globe.png') no-repeat center center;
+}
+.earth-globe-small {
+	background: url('32/earth-globe.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.globe-grid-large {
+	background: url('32/globe-grid.png') no-repeat center center;
+}
+.network {
+	background: url('16/network.png') no-repeat center center;
+}
+.diagram-ble {
+	background: url('16/diagram-ble.png') no-repeat center center;
+}
+.diagram-blk {
+	background: url('16/diagram-blk.png') no-repeat center center;
+}
+.diagram-gry {
+	background: url('16/diagram-gry.png') no-repeat center center;
+}
+.diagram-lil {
+	background: url('16/diagram-lil.png') no-repeat center center;
+}
+
+.icon-load {
+	background: url('32/load.png') no-repeat center center;
+}
+
+.icon-layout {
+	background: url('32/layout.png') no-repeat center center;
+}
+
+
+/******************************/
+
+.icon-role-large {
+	background: url('32/user-role.png') no-repeat center center;
+}
+
+.icon-user-add {
+	background: url('16/user-add.png') no-repeat center center;
+}
+
+.icon-user-edit {
+	background: url('16/user-edit.png') no-repeat center center;
+}
+
+.icon-user-delete {
+	background: url('16/user-delete.png') no-repeat center center;
+}
+.pen {
+	background: url('32/pen.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+.icon-edit {
+	background: url('32/pen.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+.exit {
+	background: url('32/exit.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+.icon-edit-multiple {
+	background: url('32/lr_menu.png'), url('32/pen.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 11px 11px,13px 13px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+.pop-up {
+	background: url('32/pop-up.png') no-repeat;
+	background-size: cover;
+	background-position: center center;
+	cursor: pointer;
+}
+.icon-edit-popup {
+	background: url('32/edit_in_popup.png') no-repeat;
+	background-size: cover;
+	background-position: center center;
+	cursor: pointer;
+}
+
+/*icon-edit-in_sep_win*/
+
+.icon-add {
+	background: url('32/insert.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+.icon-add_pop {
+	background: url('32/pop-up_w.png'), url('32/insert.png');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 11px 11px,13px 13px;
+	background-position: right bottom, left top;
+	cursor: pointer;
+}
+
+.icon-delete {
+	background: url('32/delete.png') no-repeat center center;
+	background-size: 16px 16px;
+	cursor: pointer;
+}
+
+.icon-schema-large {
+	background: url('32/schema.png') no-repeat center center;
+}
+
+.icon-dots-menu {
+	background: url('16/dots-menu.png') no-repeat center center;
+}
+
+.icon-dots-menu2 {
+	background: url('16/dots-menu2.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.icon-waterfall {
+	background: url('16/waterfall.png') no-repeat center center;
+}
+
+.icon-histogram {
+	background: url('16/histogram.png') no-repeat center center;
+}
+
+.icon-area {
+	background: url('16/area.png') no-repeat center center;
+}
+
+.icon-box {
+	background: url('16/box.png') no-repeat center center;
+}
+
+.icon-line {
+	background: url('16/line.png') no-repeat center center;
+}
+
+.icon-linebar {
+	background: url('16/linebar.png') no-repeat center center;
+}
+
+.icon-diagram {
+	background: url('16/diagram.png') no-repeat center center;
+}
+
+.icon-scatter {
+	background: url('16/scatter.png') no-repeat center center;
+}
+
+.icon-scales {
+	background: url('16/scales.png') no-repeat center center;
+}
+
+.icon-customer {
+	background: url('16/customer.png') no-repeat center center;
+}
+
+.icon-gear_information {
+	background: url('16/gear_information.png') no-repeat center center;
+}
+
+.icon-system {
+	background: url('16/system.png') no-repeat center center;
+}
+
+
+.icon-user-large {
+	background: url('32/user.png') no-repeat center center;
+}
+.icon-user-small {
+	background: url('32/user.png') no-repeat center center;
+	background-size: 16px 16px;
+}
+
+.icon-tree-large {
+	background: url('32/tree.png') no-repeat center center;
+}
+
+.icon-list-large {
+	background: url('32/list.png') no-repeat center center;
+}
+

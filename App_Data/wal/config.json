@@ -1,0 +1,117 @@
+﻿{
+	"Users": [
+		{
+			"user": "magnus",
+			"password": "magnus123",
+			"key": "ydfs1",
+			"fPerm": { "tabs": "*" }
+		},
+		{
+			"user": "pplcurrtester",
+			"password": "curr123",
+			"key": "acurjjf",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"PPL_fx": "*"
+					}
+				}
+			}
+		},
+		{
+			"user": "eva",
+			"password": "eva123",
+			"key": "ssrt1d",
+			"fPerm": { "tabs": { "ps": "*" } }
+		},
+		{
+			"user": "jonas",
+			"password": "jonas123",
+			"key": "jaobncadse",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"Market": {},
+						"PPL": "*"
+					},
+					"ps2": "*",
+					"ps3": "*"
+				}
+			}
+		},
+		{
+			"user": "sara",
+			"password": "sara234",
+			"key": "saofghya",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"Item": "*",
+						"Market": "*",
+						"PPL_fx": "*",
+						"xxx": "*"
+					},
+					"psA": { "usage": "*" }
+				}
+			}
+		},
+		{
+			"user": "demo",
+			"password": "demo123",
+			"key": "saodemo123",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"Item": "*",
+						"Market": "*",
+						"PPL_fx": "*"
+					}
+				}
+			}
+		},
+		{
+			"user": "ppl",
+			"password": "ppl123",
+			"key": "pplsdemfghya",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"Item": "*",
+						"PPL": "*"
+						//"xxx": "*"
+					}
+				}
+			}
+		},
+		{
+			"user": "market",
+			"password": "market123",
+			"key": "marketsdemfghya",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"Item": "*",
+						"Market": "*"
+						// "PPL": "*"
+						//"xxx": "*"
+					}
+				}
+			}
+		},
+		{
+			"user": "fx",
+			"password": "fx123",
+			"key": "fxsdemfghya",
+			"fPerm": {
+				"tabs": {
+					"ps": {
+						"Item": "*",
+						//"Market": "*"
+						// "PPL": "*"
+						"PPL_fx": "*"
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+	<font size="1">
+		This displays a table that can be sorted and filtered.<br>
+		Columns are sorted by clicking ones (ascending) or twice (descending).
+		Filter is available via upper-left cog-wheel menu. Select "Show filter-row" to add a filter row.
+		Default it filters anything containing the search string. A star "*" is used to define "anything".<br><br>
+		<u>Search Examples/Syntax:</u><br>
+		"123*" anything starting with 123,<br>
+		"*123" anything ending with 123,<br>
+		"*1*2*3*" any combination having 1,2,3 in a sequence like "38<b>1</b>6<b>2</b>57<b>3</b>0",<br>
+		"=123" equal to 123,<br>"<>123" not equal to 123<br>
+		">123" greater than 123,<br>">=123" greater than or equal to 123,<br>
+		"<123" less than 123,<br>"<=123" less than or equal to 123,<br><br>
+	<u>Search Of Sets:</u><br>
+		By adding a comma, each search item is included.<br>
+		So an item search that looks like "6123886180,6123897681,6123897682"<br /> 
+		results in "*6123886180* OR *6123897681* OR *6123897682*"<br>
+		while "=6123886180,6123897681,6123897682"<br> 
+		results in "'6123886180' OR '6123897681' OR '6123897682'"
+		<br><br>
+	<u>Hierarchy Search:</u><br>
+	Following hierarchies are used in Pricing: ALSIS Product, Geography and Industry. <br>
+	To search parents or children, folowing syntax is used:<br>
+	Product is Parent: "pup"<br>
+	Product is Child: "pdn"<br>
+	Industry is Parent: "iup"<br>
+	Industry is Child: "idn"<br>
+	Geography is Parent: "gup"<br>
+	Geography is Child: "gdn"<br><br>
+	Example in Items list searching product_code "pupB2999" will return items having "B2999" as parent.<br><br>
+		A pre-filtered table is indicated by a yellow filter symbol on the cogg-wheel.<br>
+		This pre-filter can be handled using the cog-menu "Clear preFilter". If the pre-filter is default, it can be added again by "Add preFilter".<br><br>
+
+	</font>
+
+</body>
+</html>

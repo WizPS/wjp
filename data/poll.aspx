@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="poll.aspx.cs" Inherits="data_poll" %>

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "price_id": 39,
+    "m_type": "GEOIND",
+    "c_type": "line",
+    "lines": 6,
+    "qty": 6,
+    "total_price": 502.67,
+    "milliseconds": 30
+  },
+  "lines": [
+    {
+      "price_id": 91,
+      "item_number": "3671174403",
+      "curr": "USD",
+      "ppl": 209.1800,
+      "base_disc_pct": 65.000,
+      "qty": 1,
+      "qty_disc_pct": 0.00,
+      "total_price": 73.2100
+    },
+    {
+      "price_id": 92,
+      "item_number": "3671174404",
+      "curr": "USD",
+      "ppl": 209.1800,
+      "base_disc_pct": 65.000,
+      "qty": 1,
+      "qty_disc_pct": 0.00,
+      "total_price": 73.2100
+    },
+    {
+      "price_id": 93,
+      "item_number": "3671174411",
+      "curr": "USD",
+      "ppl": 209.1800,
+      "base_disc_pct": 65.000,
+      "qty": 1,
+      "qty_disc_pct": 0.00,
+      "total_price": 73.2100
+    },
+    {
+      "price_id": 94,
+      "item_number": "3671174451",
+      "curr": "USD",
+      "ppl": 412.1400,
+      "base_disc_pct": 65.000,
+      "qty": 1,
+      "qty_disc_pct": 0.00,
+      "total_price": 144.2500
+    },
+    {
+      "price_id": 95,
+      "item_number": "3671174491",
+      "curr": "USD",
+      "ppl": 271.3400,
+      "base_disc_pct": 65.000,
+      "qty": 1,
+      "qty_disc_pct": 0.00,
+      "total_price": 94.9700
+    },
+    {
+      "price_id": 96,
+      "item_number": "390084017206",
+      "curr": "USD",
+      "ppl": 93.2400,
+      "base_disc_pct": 53.000,
+      "qty": 1,
+      "qty_disc_pct": 0.00,
+      "total_price": 43.8200
+    }
+  ],
+  "message": ""
+}
+}
