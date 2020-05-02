@@ -20,10 +20,10 @@ public partial class data_ldbs : System.Web.UI.Page
         string zValue = joPayload["value"].ToString();
         string zSql = string.Format("UPDATE users SET theme = 'aaaa' WHERE user = 'magnus'");
         // UPDATE table SET column = expression [WHERE condition] 
-        var f_path = AppDomain.CurrentDomain.BaseDirectory + @"\App_Data\wal\local.accdb";
+        var f_path = AppDomain.CurrentDomain.BaseDirectory + @"\App_Data\wal\local.mdb";
 
-        // string connectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + f_path;
-        string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + f_path;
+        string connectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + f_path;
+        // string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + f_path;
         DataTable dt = new DataTable();
         using (OleDbConnection conn = new OleDbConnection(connectionString))
         {
