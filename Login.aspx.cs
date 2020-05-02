@@ -89,8 +89,8 @@ public partial class Login : System.Web.UI.Page
 
 	public static void fnLogin(string username, Int16 userLevel, string userkey, string fPerm, string client, string sys)
 	{
-		DataTable dt = ldb.ldbToDt(string.Format("select theme from users where user = '{0}'", username));
-		HttpContext.Current.Session["theme"] = dt.Rows[0][0].ToString();
+		// DataTable dt = ldb.ldbToDt(string.Format("select theme from users where user = '{0}'", username));
+		// HttpContext.Current.Session["theme"] = dt.Rows[0][0].ToString();
 		HttpContext.Current.Session["username"] = username;
 		HttpContext.Current.Session["userLevel"] = userLevel;
 		HttpContext.Current.Session["userkey"] = userkey;

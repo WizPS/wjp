@@ -40,11 +40,7 @@
 			var env_db = '<%=Common.My.getDbServer()%>';
 			// SELULT5241
             var env = {
-                "SELULT5241": { env_type: "Dev", api: "SELULT5241" }
-                , "SELULT4526": { env_type: "Dev", api: "SELULT4526" }
-                , "SELUWS2135": { env_type: "Test", api: "SELUWS2251", iis: "test-pricingservice"  }
-                , "SELUWS2255": { env_type: "Preprod", api: "SELUWS2256", iis: "pp-pricingservice"  }
-                , "SELUWS2229": { env_type: "Production", api: "SELUWS2250", iis: "pricingservice"  }
+               "ASUS": { env_type: "ASUS", api: "ASUS" }
             };
 			var env_type = env[env_iis].env_type;
 

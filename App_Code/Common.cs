@@ -111,9 +111,14 @@ namespace Common
 		public static string getDbServer(string iCon = "")
 		{
 			string zRet = "";
-			zRet = getDbConnString(getMachineName() + "_PricingService");
+			try { 
+				zRet = getDbConnString(getMachineName() + "_PricingService");
+				return zRet.Substring(7, 10);
+			}
+			catch {
+				return "non";
+			}
 			// Server=SELUWS2252;Database=PricingService;User Id=PricingService;Password=5pK#TExFi6;
-			return zRet.Substring(7, 10);
 		}
 
 		public static string getMachineName()
