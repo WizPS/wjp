@@ -40,7 +40,8 @@
 			var env_db = '<%=Common.My.getDbServer()%>';
 			// SELULT5241
             var env = {
-               "ASUS": { env_type: "ASUS", api: "ASUS" }
+					"ASUS": { env_type: "ASUS", api: "ASUS" }
+               , "AZURE": { env_type: "AZURE", api: "AZURE" }
             };
 			var env_type = env[env_iis].env_type;
 
